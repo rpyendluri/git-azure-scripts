@@ -1,5 +1,5 @@
 ﻿$gitrepo="https://github.com/rpyendluri/git-azure-scripts"
-$gittoken="12152e05f916bde59a181d71a4707c15b1dc7d8d"
+$gittoken="11dc7d8d"
 $webappname="mywebapp$(Get-Random)"
 $location="Southeast Asia"
 
